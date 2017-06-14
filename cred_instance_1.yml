@@ -11,7 +11,7 @@ applications:
     number: 2
   - name: sensor-b-app-ver-3
     number: 3
-  - name: sensor-b-app-ver-777
-    number: 777
+  - name: sensor-b-app-ver-666
+    number: 666
   - name: sensor-b-app-ver-999
     number: 999
